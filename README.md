@@ -20,7 +20,7 @@
 
 [Terraform 2](https://docs.microsoft.com/en-us/azure/developer/terraform/overview)
 
-[Terraform 3 Hasicorp](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
+[Terraform AZURERM](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
 
 [Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/overview)
 
@@ -62,6 +62,12 @@ Install plugins:
 ```
 terraform init
 ```
+Shows what I´ll be built:
+
+```
+terraform plan
+```
+
 
 
 
