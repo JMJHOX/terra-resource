@@ -19,6 +19,7 @@
 [Intro Terraform](https://learn.hashicorp.com/collections/terraform/azure-get-started  )
 
 [Terraform 2](https://docs.microsoft.com/en-us/azure/developer/terraform/overview)
+
 [Terraform 3 Hasicorp](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
 
 [Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/overview)
