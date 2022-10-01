@@ -50,6 +50,18 @@
 
 
 
+# Comandos
+
+Formatting:
+
+```
+terraform fmt
+```
+Install plugins:
+
+```
+terraform init
+```
 
 
 
